@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B70B21B9-D3BE-4F6E-A692-B7ADF1D36E1C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>sda-mobile-app</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7177345E9E04B43DEEF67E4AC9901D8B24AB72FB</key>
+		<string>bitbucket.org:eshughes/serena-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>sda-mobile-app.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7177345E9E04B43DEEF67E4AC9901D8B24AB72FB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>bitbucket.org:eshughes/serena-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7177345E9E04B43DEEF67E4AC9901D8B24AB72FB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7177345E9E04B43DEEF67E4AC9901D8B24AB72FB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sda-mobile-app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
